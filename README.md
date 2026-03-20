@@ -16,6 +16,19 @@ The pipeline:
 
 The workflow turns raw game-log data into structured season outputs and publishable reporting pages with minimal manual work.
 
+### Project Structure
+
+src/ -- scripts
+samples/ -- curated sample outputs
+docs/ --workflow and output notes
+output/ -- generated output folder
+
+### Requirements / Setup
+
+Python 3.11
+install requirements
+run the desired script from src/
+
 ## Main Scripts
 
 ### Base stat generation
