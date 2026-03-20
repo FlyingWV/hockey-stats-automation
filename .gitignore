@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+
+output/*
+!output/.gitkeep
+
+# optional if you only want curated samples tracked
+Results/
+html/
+
+# OS / temp files
+Thumbs.db
+.DS_Store
