@@ -23,11 +23,15 @@ samples/ -- curated sample outputs
 docs/ --workflow and output notes
 output/ -- generated output folder
 
-### Requirements / Setup
+## Setup
 
-Python 3.11
-install requirements
-run the desired script from src/
+### Requirements
+- Python 3.11+ recommended
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
 
 ## Main Scripts
 
